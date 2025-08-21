@@ -37,6 +37,20 @@ header nav a{
     
 }
 
+.navSobre{
+    text-align: center;
+
+}
+
+.aNovo{
+    font-size: 18px;
+    text-decoration: none;
+    background-color: black;
+    color:rgb(255, 250, 247);
+    border-radius: 6px;
+    padding: 6px 9px;
+}
+
 main{
     background-color: rgb(255, 250, 247);
 }
