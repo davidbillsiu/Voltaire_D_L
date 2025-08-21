@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 844px;
+    width: 390px;
+}
+ 
+header{
+    background-color: rgb(120, 94, 78);
+    font-family: Georgia, Times, serif;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+
+header nav{
+    text-align: center;
+}
+
+header nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    padding: 4px 5px;
+}
+
+main{
+    
+    background-color: rgb(237, 225, 183);
+}
+
+main h1{
+    text-align: center;
+}
+
+main p{
+    margin-left: 20px;
+}
+
+img{
+    margin-left: 100px;
+    height: 150px;
+    width: 190px;
+    border-radius: 30px;
+}
+
+.videoBio{
+    width: 390px;
+}
+
+div{
+    padding: 15px;
+    
+    background-color: rgb(43, 27, 35);
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(120, 94, 78); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
